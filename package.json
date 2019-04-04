@@ -1,0 +1,82 @@
+{
+  "_from": "explorer.canvas@git://github.com/nebirhos/ExplorerCanvas.git#565afad715d1242fdc1216565e28377c63f263fb",
+  "_id": "explorer.canvas@1.0.0",
+  "_inBundle": false,
+  "_location": "/explorer.canvas",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "explorer.canvas@git://github.com/nebirhos/ExplorerCanvas.git#565afad715d1242fdc1216565e28377c63f263fb",
+    "name": "explorer.canvas",
+    "escapedName": "explorer.canvas",
+    "rawSpec": "git://github.com/nebirhos/ExplorerCanvas.git#565afad715d1242fdc1216565e28377c63f263fb",
+    "saveSpec": "git://github.com/nebirhos/ExplorerCanvas.git#565afad715d1242fdc1216565e28377c63f263fb",
+    "fetchSpec": "git://github.com/nebirhos/ExplorerCanvas.git",
+    "gitCommittish": "565afad715d1242fdc1216565e28377c63f263fb"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/nebirhos/ExplorerCanvas.git#565afad715d1242fdc1216565e28377c63f263fb",
+  "_spec": "explorer.canvas@git://github.com/nebirhos/ExplorerCanvas.git#565afad715d1242fdc1216565e28377c63f263fb",
+  "_where": "/Users/fdisperati/Code/trinity/web",
+  "author": {
+    "name": "Erik Arvidsson"
+  },
+  "bugs": {
+    "url": "https://github.com/nebirhos/ExplorerCanvas/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "ExplorerCanvas"
+    },
+    {
+      "name": "Google Open Source:"
+    },
+    {
+      "email": "http://code.google.com"
+    },
+    {
+      "email": "opensource@google.com"
+    },
+    {
+      "name": "Developers:"
+    },
+    {
+      "name": "Emil A Eklund",
+      "email": "emil@eae.net"
+    },
+    {
+      "name": "Erik Arvidsson",
+      "email": "erik@eae.net"
+    },
+    {
+      "name": "Glen Murphy",
+      "email": "glen@glenmurphy.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "Canvas for IE8 and older ",
+  "directories": {
+    "example": "examples"
+  },
+  "homepage": "https://github.com/nebirhos/ExplorerCanvas#readme",
+  "keywords": [
+    "canvas",
+    "js",
+    "internet",
+    "explorer"
+  ],
+  "license": "Apache-2.0",
+  "main": "excanvas.js",
+  "name": "explorer.canvas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebirhos/ExplorerCanvas.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
